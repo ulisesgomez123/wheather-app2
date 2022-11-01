@@ -4,7 +4,7 @@ import './App.css';
 import Nav from '../components/Nav.jsx';
 import Cards from '../components/Cards.jsx';
 import {Route} from 'react-router-dom';
-import Ciudad1 from '../components/Ciudad1.js';
+import Ciudad1 from '../components/Ciudad1.jsx';
 
 const apiKey = '4ae2636d8dfbdc3044bede63951a019b';
 
