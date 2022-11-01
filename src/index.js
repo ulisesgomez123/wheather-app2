@@ -4,7 +4,7 @@ import App from './containers/App';
 import { BrowserRouter } from 'react-router-dom';
 
 ReactDOM.render(
-  <BrowserRouter basename='Weather-App'> 
+  <BrowserRouter> 
   <App />
   </BrowserRouter>
  ,
